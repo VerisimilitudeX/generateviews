@@ -9,4 +9,4 @@ while COUNT < 20: # loop until 4000 refreshes
     webbrowser.open(URL) # open the url
     sleep(0) # wait for 1 seconds
     COUNT += 1 # increment the counter
-    URL += "fe2u3oihuldekugf"
+    URL += "oihuldekugf"
